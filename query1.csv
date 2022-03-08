@@ -1,0 +1,12 @@
+ReservationId,Adults,Children,StartDate,EndDate,RoomNumber,TotalRoomCost,GuestName
+15,2,0,2023-06-28,2023-07-02,205,700,"Brian Parker"
+16,3,1,2023-07-13,2023-07-14,204,185,"Walter Holaway"
+17,4,2,2023-07-18,2023-07-21,401,1260,"Wilfred Vise"
+18,2,1,2023-07-28,2023-07-29,303,200,"Bettyann Seery"
+19,1,0,2023-08-30,2023-09-01,305,350,"Bettyann Seery"
+20,2,0,2023-09-16,2023-09-17,208,150,"Mack Simmer"
+21,2,2,2023-09-13,2023-09-15,203,400,"Karie Yang"
+22,2,2,2023-11-22,2023-11-25,401,1200,"Duane Cullison"
+23,2,0,2023-11-22,2023-11-25,206,450,"Mack Simmer"
+24,2,2,2023-11-22,2023-11-25,301,600,"Mack Simmer"
+25,2,0,2023-12-24,2023-12-28,302,700,"Maritza Tilton"
